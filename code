@@ -1,0 +1,5 @@
+mkdir qr-code-bot
+cd qr-code-bot
+npm init -y
+npm install discord.js qrcode
+node index.js
